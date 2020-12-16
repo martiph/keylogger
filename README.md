@@ -1,6 +1,6 @@
 # Keylogger
 
-This is the repository of a experimental implementation of a keylogger. More features will be added (probably).
+This is the repository of a experimental implementation of a keylogger. More features will be added (probably). More on Keyloggers and the different methods on how to catch keystrokes can be found on the `[Wikipedia](https://en.wikipedia.org/wiki/Keystroke_logging)` page.
 
 ## Installation and Execution
 

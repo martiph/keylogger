@@ -5,10 +5,13 @@
 int main()
 {
 	char ch;
-	while(1)
+	bool capturing = true;
+
+	// start the loop for capturing keystrokes
+	while(capturing)
 	{
 		ch=fgetc(stdin);
-        printf("%c is pressed.\n",ch);
+        printf("%c was pressed.\n",ch);
 		ch=getchar();
 	}
 	return 0;
